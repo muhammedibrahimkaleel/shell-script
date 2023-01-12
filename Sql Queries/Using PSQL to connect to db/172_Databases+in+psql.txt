@@ -1,7 +1,0 @@
-\\ to list databases
-
-\l
-
-\\to connect to a database
-
-\c AdventureWorks 
